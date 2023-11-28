@@ -1,0 +1,18 @@
+{
+    "chain_name": "desmos",
+    "coingecko": "desmos",
+    "api": ["https://api.mainnet.desmos.network","https://desmos-api.lavenderfive.com","https://desmos-api.ibs.team"],
+    "rpc": ["https://rpc.mainnet.desmos.network:443","https://desmos-rpc.lavenderfive.com:443"],
+    "sdk_version": "0.37.2",
+    "coin_type": "852",
+    "min_tx_fee": "0.001",
+    "addr_prefix": "desmos",
+    "logo": "/logos/desmos.png",
+    "assets": [{
+        "base": "udsm",
+        "symbol": "DSM",
+        "exponent": "6",
+        "coingecko_id": "desmos",
+        "logo": "/logos/desmos.png"
+    }]
+}

@@ -1,0 +1,18 @@
+{
+    "chain_name": "oraichain",
+    "api": ["https://api-orai.nodine.id"],
+    "rpc": ["https://rpc.orai.io:443", "https://rpc-orai.nodine.id:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.34.29",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "orai",
+    "logo": "/logos/orai.png",
+    "assets": [{
+        "base": "orai",
+        "symbol": "orai",
+        "exponent": "6",
+        "coingecko_id": "orai", 
+        "logo": "/logos/orai.png"
+    }]
+}

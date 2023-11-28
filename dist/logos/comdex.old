@@ -1,0 +1,11 @@
+--2023-11-16 14:27:23--  https://coinando.com/static/assets/coins/comdex-logo.png?v=1
+Resolving coinando.com (coinando.com)... 188.114.96.3, 188.114.97.3, 2a06:98c1:3120::3, ...
+Connecting to coinando.com (coinando.com)|188.114.96.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2510 (2.5K) [image/png]
+Saving to: ‘comdex-logo.png?v=1’
+
+     0K ..                                                    100% 55.7M=0s
+
+2023-11-16 14:27:25 (55.7 MB/s) - ‘comdex-logo.png?v=1’ saved [2510/2510]
+
